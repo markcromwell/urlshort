@@ -1,7 +1,7 @@
 # Program Map: URL Shortener
 
-<!--GENERATED:BEGIN hash=ad76d6f9505f8708f98971348445d7f759b302bede3b13ca21da0a4ed5da1edf sig= job=0 commit=b410bdf85394f053adc78d985c3e94fac12f3973-->
-<!--Generated 2026-07-31T01:52:49.085192+00:00. Do not edit — will be overwritten.-->
+<!--GENERATED:BEGIN hash=b954fa7455bdec6e88d71f42ae2f962b4f30fb9d567c39ce8d79e575c44d8d1c sig= job=0 commit=95e2b56c8810e17f99d8a21d140adb9428e0e88a-->
+<!--Generated 2026-07-31T02:30:52.712065+00:00. Do not edit — will be overwritten.-->
 
 ## II. Canonical Data Schema [GENERATED — do not edit]
 
@@ -22,6 +22,7 @@ app/__init__.py
 app/agy.py
 app/chain_proof.py
 app/claude_probe_marker.py
+app/codex_probe_marker.py
 app/config.py
 app/cursor_earn.py
 app/health.py
@@ -36,6 +37,7 @@ scripts/smoke_boot.py
 scripts/test_agy_earn.py
 scripts/test_chain_proof.py
 scripts/test_claude_probe_marker.py
+scripts/test_codex_probe_marker.py
 scripts/test_cursor_earn.py
 scripts/test_unit.py
 ```
